@@ -1,0 +1,83 @@
+{
+	"app_title": {
+		"message": "Autofarmer FK - Plemiona.pl"
+	},
+	"app_desc": {
+		"message": "Rozwinięty bot do asystenta farmera w plemionach z wbudowaną antyochroną antybotową."
+	},	
+	"randomWait": {
+		"message": "Losowe czekanie... teraz!"
+	},
+	"problemWithNextPage": {
+		"message": "Nie mógł przejść na kolejną stronę, bo ona nie istnieje"
+	},
+	"saved": {
+		"message": "Zapisano"
+	},
+	"save": {
+		"message": "Zapisz"
+	},
+	"F1": {
+		"message": "Zatrzymaj bota po ilu wioskachDUPA3"
+	},
+	"F2": {
+		"message": "Jak długo trwa przerwa (min)DUPA2"
+	},
+	"F3": {
+		"message": "Max murDUPA1"
+	},
+	"F4": {
+		"message": "Max zasięgDUPA1"
+	},
+	"F5": {
+		"message": "Max ataków na barbęDUPA1"
+	},
+	"F6": {
+		"message": "Główny szablonDUPA3"
+	},
+	"F7": {
+		"message": "Czas między atakami (ms)DUPA2"
+	},
+	"F8": {
+		"message": "Atakować żółte kropki?DUPA1"
+	},
+	"dontStop": {
+		"message": "Nie rób przerwy<sup>[1]"
+	},
+	"village": {
+		"message": "Wioska"
+	},
+	"S1": {
+		"message": "<sup>[1]</sup>Nie rób przerwy zanim w każdej wiosce będzie mniej wojsk niż główny szablon * 100"
+	},
+	"S2": {
+		"message": "Szablon z samymi zwiadowcami - atakuje tylko wioski z żółtą/czerwoną kropką lub z większym niż maksymalnym murem"
+	},
+	"S3": {
+		"message": "Po wysłaniu serii wojsk bot przechodzi do następnej wioski, nawet jeśli jest w niej jeszcze armia."
+	},
+	"S4": {
+		"message": "Przy zaznaczeniu C najpierw wysyła C, a następnie wybrany A lub B"
+	},
+	"S5": {
+		"message": "Zalecane ustawić grupę dynamiczną z LK w wiosce"
+	},
+	"S6": {
+		"message": "Zalecane ustawić 100 wiosek na stronę"
+	},
+	"S7": {
+		"message": "Nie zostawiaj pustych szablonów (może bot nie działac)"
+	},
+	"S8": {
+		"message": "Kontakt: rgfkit@gmail.com - tylko polski lub angielski"
+	},
+	"S9": {
+		"message": "Należy pozostawić uprawnienia dla wszystkich stron, bez tego reCaptcha może nie działać"
+	},
+	"S10": {
+		"message": "<b>Zalecane zostawić bota w jedynej karcie w oknie i nie minimalizować</b>"
+	},
+	"over100AttacksDemo": {
+		"message": "<b>Przekroczyłeś dziś ilość 100 ataków ;c</b>"
+	}
+}
